@@ -1,26 +1,19 @@
 # 📁 Tugas 1 : Mengulang Materi PEMDAS
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Bilal         
+NIM  : 235150607111001
 
 ## 📤 Submission
 
 ### Template utk opsi tugas 1
 Opsi Tugas : 1        
-Aplikasi / Webapp / Game yang ditiru : Game A     
-Fitur yang ditiru : fitur A     
+Aplikasi / Webapp / Game yang ditiru : Hallo doc   
+Fitur yang ditiru : Autentikasi data pengguna   
 
-### Template utk opsi tugas 2
-Opsi Tugas : 2            
-Sistem Informasi yang ditiru : SIAM              
-Fitur yang ditiru :                   
-1. fitur A
-2. fitur B
-3. fitur C
-4. dst
+
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+[
+](https://youtu.be/b-2DW3LYrvc?si=csdyOHujPlJNca1H)https://youtu.be/b-2DW3LYrvc?si=csdyOHujPlJNca1H
