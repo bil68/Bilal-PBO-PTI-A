@@ -2,7 +2,7 @@
 
 👤 Identitas Intern
 
-Nama : Devan
+Nama : Bilal
 NIM : 235150607111001
 
 🔗 Link Penjelasan Tugas
